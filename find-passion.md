@@ -10,5 +10,3 @@
 <p style="Line-height:2.0;"></p>
 
 ![J Curve or Learning Curve](j-curve.png)
-
-    
