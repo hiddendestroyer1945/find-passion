@@ -9,4 +9,4 @@
 **J Curve or Learning Curve**
 <p style="Line-height:2.0;"></p>
 
-![J Curve or Learning Curve](j-curve.png)
+![J Curve or Learning Curve](jcurve.png)
