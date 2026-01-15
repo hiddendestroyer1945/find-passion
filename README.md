@@ -4,9 +4,4 @@ It's explains the techniques for finding your passion. It's a learning repositor
 
 ## Table of Contents
 
-* **Find the Passion**
-
-
-## Links Are Given Bellow
-
-Click [here](find-passion.md) to read the find the passion explanation.
+* **[Find the Passion](find-passion.md)**
